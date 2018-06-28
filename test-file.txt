@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7EE4-72A9
+
+ Directory of C:\Users\502312460\Documents\Workspace\nvr-dashboard
+
+06/28/2018  02:41 PM    <DIR>          .
+06/28/2018  02:41 PM    <DIR>          ..
+06/28/2018  02:31 PM                41 README.md
+06/28/2018  02:41 PM                 0 test-file.txt
+               2 File(s)             41 bytes
+               2 Dir(s)  129,439,039,488 bytes free
